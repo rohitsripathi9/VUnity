@@ -1,4 +1,4 @@
-# VUnity – Assignment 1
+# VUnity – Assignment 
 
 VUnity is a social media platform designed exclusively for Vignan students to connect, collaborate, and share resources.
 
