@@ -19,6 +19,9 @@ VUnity is a social media platform designed exclusively for Vignan students to co
 ### Signup Page
 ![Signup Page](src/assets/Signup.png)
 
+### Home Page
+![Home Page](home.png)
+
 ---
 
 ## How to Run
