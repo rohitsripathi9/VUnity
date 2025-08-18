@@ -1,4 +1,4 @@
-# VUnity – Assignment 1
+# VUnity – Assignment 
 
 VUnity is a social media platform designed exclusively for Vignan students to connect, collaborate, and share resources.
 
@@ -14,10 +14,10 @@ VUnity is a social media platform designed exclusively for Vignan students to co
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](assets/login.png)
+![Login Page](src/assets/Login.png)
 
 ### Signup Page
-![Signup Page](assets/signup.png)
+![Signup Page](src/assets/Signup.png)
 
 ---
 
